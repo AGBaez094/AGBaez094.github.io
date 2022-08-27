@@ -1,7 +1,7 @@
 body{
     font-family: 'Inter', sans-serif;
     background-color: #E5E5E5;
-    background-image: url(imagenes/red.jpg);
+    background-image: url(Imagenes/red.jpg);
 
 }
 
@@ -83,7 +83,7 @@ main{
     position: relative;
     margin-top: 20px;
     margin-left: 90px;
-    background-image: url("imagenes/Muñeco.png");
+    background-image: url("Imagenes/Muñeco.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 400px;
